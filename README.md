@@ -18,7 +18,7 @@
 ### 🚀 Start here
 | Tool | What it does |
 |---|---|
-| **TEAM** | 5 Claudes review your code before you ship it: a hacker, a confused user, a senior dev, a tester and a boss who gives the final verdict |
+| **[TEAM](https://reggiejunior.github.io/team/)** | 5 Claudes review your code before you ship it: a hacker, a confused user, a senior dev, a tester and a boss who gives the final verdict |
 
 ### 📚 Want more?
 Every tool I make goes into the **[AI Library](https://www.skool.com/ai-library)**, with step-by-step guides.
